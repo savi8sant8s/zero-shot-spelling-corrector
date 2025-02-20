@@ -1,0 +1,3 @@
+bressay,flor,834 sentences,1544.89 seconds
+rimes,flor,100 sentences,141.32 seconds
+iam,flor,255 sentences,340.88 seconds

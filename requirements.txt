@@ -1,0 +1,8 @@
+openai
+ollama
+tensorflow
+numpy
+editdistance
+pandas
+python-dotenv
+google-genai
