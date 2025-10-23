@@ -35,3 +35,20 @@ python3 metrics.py \
 - To support other datasets modify the `get_sentences` function to identify the lines and create sentences to prompt (this is necessary to add more context to the llm In the end the lines are split again).
 - The `get_sentences` function expects the dataset to be sorted to get the lines of the paragraphs in the correct order.
 - To support other providers and models modify `model.py` file.
+
+### Citation:
+````bibtex
+@inproceedings{stil,
+ author = {Sávio Araújo and Byron Bezerra and Arthur Sousa Neto},
+ title = { Towards Prompt Engineering and Large Language Models for Post-OCR correction in handwritten texts},
+ booktitle = {Anais do XVI Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana},
+ location = {Fortaleza/CE},
+ year = {2025},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {572--579},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ url = {https://sol.sbc.org.br/index.php/stil/article/view/37859}
+}
+```
