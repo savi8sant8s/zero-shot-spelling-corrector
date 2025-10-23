@@ -37,7 +37,7 @@ python3 metrics.py \
 - To support other providers and models modify `model.py` file.
 
 ### Citation:
-````bibtex
+```bibtex
 @inproceedings{stil,
  author = {Sávio Araújo and Byron Bezerra and Arthur Sousa Neto},
  title = { Towards Prompt Engineering and Large Language Models for Post-OCR correction in handwritten texts},
@@ -52,3 +52,4 @@ python3 metrics.py \
  url = {https://sol.sbc.org.br/index.php/stil/article/view/37859}
 }
 ```
+
