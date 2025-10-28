@@ -49,6 +49,7 @@ python3 metrics.py \
  pages = {572--579},
  publisher = {SBC},
  address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/stil.2025.37859},
  url = {https://sol.sbc.org.br/index.php/stil/article/view/37859}
 }
 ```
